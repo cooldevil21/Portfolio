@@ -39,7 +39,7 @@ const router = new PJaxRouter({
       const i1 = document.querySelector(".i1");
   
       i1.addEventListener("click", () => {
-        window.open("https://kumarkshitij24.github.io/glfx/", "_blank");
+        window.open("https://cooldevil21.github.io/Qlimate/", "_blank");
       });
   
     } else if (r === "index.html") {
@@ -97,11 +97,11 @@ const router = new PJaxRouter({
     linkedin.addEventListener("mouseout", handleMouseOut);
   
     github.addEventListener("click", () => {
-      window.open("https://github.com/kumarkshitij98", "_blank");
+      window.open("https://github.com/cooldevil21", "_blank");
     });
   
     linkedin.addEventListener("click", () => {
-      window.open("https://www.linkedin.com/in/kumar-kshitij-699203201/", "_blank");
+      window.open("https://www.linkedin.com/in/vikrant-singh-b28834244/", "_blank");
     });
   }
   
